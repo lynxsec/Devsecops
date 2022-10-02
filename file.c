@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("Build Trigerred")
+	printf("Build Trigerred");
 }
